@@ -1,6 +1,6 @@
 /******************************************************************************************************
    Tasterabfrage in Objektorientierter Programmierung (OOP) und Ausgabe des Wertes im Seriellen Monitor
-   Falk Sudkamp
+   Falk
    14.12.17
 ******************************************************************************************************/
 #include "Taster.h"                         // Die "Taster" C++ Header Datei wird aufgenommen
